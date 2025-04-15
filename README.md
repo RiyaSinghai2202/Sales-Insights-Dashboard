@@ -41,15 +41,14 @@ This dashboard was built to address critical sales queries posed by the client�
 - **Technology** leads in profit followed by **Office Supplies** and **Furniture**.
 
 ---
-
 ## 📂 Dataset Used
 
--  [Superstore Dataset]([https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://github.com/RiyaSinghai2202/Sales-Insights-Dashboard/blob/main/41983a03-5eab-4abc-b00f-f229a760e60a%20(1).xlsx))
+- 📁 [Superstore Dataset](https://github.com/RiyaSinghai2202/Sales-Insights-Dashboard/blob/main/41983a03-5eab-4abc-b00f-f229a760e60a%20(1).xlsx)
 
+## 📈 Dashboard File
 
-## 📈 Dashboard Link
+- 🔗 [Download Power BI Dashboard (.pbix)](https://github.com/RiyaSinghai2202/Sales-Insights-Dashboard/blob/main/Sales%20Insight%20Dashboards.pbix)
 
-- 🔗 [View Interactive Dashboard on Power BI]([https://app.powerbi.com/view?r=YOUR-DASHBOARD-LINK-HERE](https://github.com/RiyaSinghai2202/Sales-Insights-Dashboard/blob/main/Sales%20Insight%20Dashboards.pbix))
 
 
 ![WhatsApp Image 2025-04-15 at 15 17 19](https://github.com/user-attachments/assets/f4028eae-fb96-47c3-894e-f8cbc46945f5)
